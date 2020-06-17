@@ -1,5 +1,9 @@
 # The JavaScripting English Major
 
+* * * * *
+README FILE AS EDITED BY MKPSTEES JUNE 17 2020
+* * * * *
+
 This repository hosts the course *The JavaScripting English Major*, by me,
 [Moacir P. de Sá Pereira](http://moacir.com). It is served (via GitHub pages)
 at
